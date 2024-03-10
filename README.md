@@ -1,2 +1,2 @@
 # Madhav-ecommerce-sales-analysis
-Power BI project using restail sales data
+Power BI project using retail sales data
